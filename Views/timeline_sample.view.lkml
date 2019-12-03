@@ -16,7 +16,7 @@ view: timeline_sample {
     sql: ${TABLE}.TS ;;
   }
 
-  dimension: n {
+  measure: n {
     type: number
     sql: ${TABLE}.N ;;
   }
