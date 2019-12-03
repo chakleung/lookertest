@@ -25,3 +25,8 @@ explore: characters {
   view_label: "Star Trek characters"
   description: "List of Star Trek Characters and details about them"
 }
+
+explore: timeline_sample {
+  view_label: "Timeline test"
+  description: "Test timeline plotting"
+}
