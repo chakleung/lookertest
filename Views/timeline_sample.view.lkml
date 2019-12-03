@@ -12,7 +12,7 @@ view: timeline_sample {
   }
 
   dimension: ts {
-    type: date
+    type: date_raw
     sql: ${TABLE}.TS ;;
   }
 
